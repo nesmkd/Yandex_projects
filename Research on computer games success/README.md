@@ -25,17 +25,17 @@ Pandas, Numpy, Matplotlib, Seaborn, Scipy
 
 ## Research Plan:
 1. Data Overview and Exploration
-2. Data Preprocessing
+2. Data Cleaning
    - Handling missing values
    - Data type conversion
    - Removing duplicates and anomalous values
    - Adding new columns
 3. Exploratory Data Analysis:
-   - Studying different data periods and their significance
+   - Exploration of different data periods and their significance
    - Analyzing sales dependence on platforms
    - Selecting the relevant period for the 2017 forecast and choosing sales-leading platforms
    - Investigating the impact of reviews on sales
-   - Exploring the distribution of games by genre
+   - Exploration of the distribution of games by genre
 4. Creating a User Profile for Each Region
 5. Hypothesis Testing:
    - Are the average user ratings for Xbox One and PC platforms the same?
