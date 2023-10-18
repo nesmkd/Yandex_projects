@@ -33,11 +33,11 @@ Pandas, Numpy, Matplotlib, Seaborn, Scipy
 3. Exploratory Data Analysis:
    - Exploration of different data periods and their significance
    - Analyzing sales dependence on platforms
-   - Selecting the relevant period for the 2017 forecast and choosing sales-leading platforms
+   - Choosing sales-leading platforms. Forecast 2017
    - Investigating the impact of reviews on sales
    - Exploration of the distribution of games by genre
 4. Creating a User Profile for Each Region
-5. Hypothesis Testing:
+5. Hypothesis Testing
    - Are the average user ratings for Xbox One and PC platforms the same?
    - Are the average user ratings for Action and Sports genres different?
 6. General Conclusion on the conducted work and the results obtained."
