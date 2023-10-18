@@ -9,12 +9,12 @@ Historical data on game sales, user and expert ratings, genres, and platforms we
 Data Description:
 - Name: Game title
 - Platform: Gaming platform
-- Year_of_Release: Year of release
-- Genre: Game genre
-- NA_sales: Sales in North America (millions of copies sold)
-- EU_sales: Sales in Europe (millions of copies sold)
-- JP_sales: Sales in Japan (millions of copies sold)
-- Other_sales: Sales in other countries (millions of copies sold)
+- Year_of_Release
+- Genre
+- NA_sales: Sales in North America (copies sold, mln)
+- EU_sales: Sales in Europe (copies sold, mln)
+- JP_sales: Sales in Japan (copies sold, mln)
+- Other_sales: Sales in other countries (copies sold, mln)
 - Critic_Score: Critic rating (maximum 100)
 - User_Score: User rating (maximum 10)
 - Rating: Rating from the Entertainment Software Rating Board (ESRB). This association assigns age categories to computer games.
