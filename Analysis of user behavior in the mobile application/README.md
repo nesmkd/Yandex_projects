@@ -1,4 +1,4 @@
-# Description of project - Analysis of user behavior in the mobile application
+# Description of project - Analysis of user behavior in the mobile app
 ## Research Goals
 1. Analyze the relationship between the target event (viewing contacts) and other user actions.
 2. Evaluate which actions are more frequently performed by users who view contacts.
