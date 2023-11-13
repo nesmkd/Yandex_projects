@@ -5,9 +5,9 @@
 3. Analyze the time difference between events map -> contacts_show and search -> contacts_show within sessions.
 
 ## Additional Materials
-- link to a presentation with brief project results and recommendations
+- link to a presentation with brief project results and recommendations [RU]
   https://drive.google.com/file/d/1luGkl0EZRoSVMMsG2zNVmOOEQUh8SrwD/view?usp=sharing 
-- Link to dashboard with graphs and data filtering for dynamic analysis will also be created
+- Link to dashboard with graphs and data filtering for dynamic analysis will also be created [RU]
   https://public.tableau.com/views/Dashboard_AppThings/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
 
 ## Data Sources
