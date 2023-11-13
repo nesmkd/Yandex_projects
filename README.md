@@ -13,7 +13,7 @@ Data analytics projects using Python and SQL tools
 **Libraries:** Pandas, Numpy, Matplotlib, Math, Scipy
 
 -------------------------------------------------------
-## 3.
+## 3. Research of user behavior in the mobile app
 **Goals:**
 - Analyze the relationship between the target event (viewing contacts) and other user actions.
 - Evaluate which actions are more frequently performed by users who view contacts.
