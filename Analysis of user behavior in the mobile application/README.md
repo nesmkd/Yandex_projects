@@ -31,6 +31,9 @@ Types of events in the data:
 - search_1 — search_7 — various actions related to site search,
 - favorites_add — added an ad to favorites.
 
+## Libraries:
+Pandas, Numpy, Math, Scipy, Plotly, tqdm.notebook, itertools 
+
 ## Research Plan:
 1. Data Overview and Exploration
    - Explore data
