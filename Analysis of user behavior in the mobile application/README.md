@@ -6,7 +6,9 @@
 
 ## Additional Materials
 - link to a presentation with brief project results and recommendations
+  https://drive.google.com/file/d/1luGkl0EZRoSVMMsG2zNVmOOEQUh8SrwD/view?usp=sharing 
 - Link to dashboard with graphs and data filtering for dynamic analysis will also be created
+  https://public.tableau.com/views/Dashboard_AppThings/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
 
 ## Data Sources
 Two datasets in CSV format are provided.
